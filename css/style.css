@@ -171,37 +171,3 @@ footer {
   background-color: #f7f7f7;
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-header,
-main,
-footer {
-  padding: 20px;
-}
-
-header {
-  background-color: #f2f2f2;
-}
-
-footer {
-  background-color: #f2f2f2;
-}
-
-section {
-  margin-bottom: 24px;
-}
-
-section h2 {
-  margin-top: 0;
-}
